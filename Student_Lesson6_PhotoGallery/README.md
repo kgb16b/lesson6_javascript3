@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 1, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kaelen Birkholz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using HTML DOM and javascript, we edited the HTML document to display a photo gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/kgb16b/lesson6_javascript3 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. DOM is an example of API. It is the structure of objects with a set of properties and methods.
+2. BOM is the hierarchy of objects, each of which provides programmatic access.
+3. The getElementById() method returns the first element in a document with a matching id attribute.
